@@ -3,8 +3,8 @@ import { leadSchema } from "@/lib/lead-schema";
 import { clientIp, rateLimit } from "@/lib/rate-limit";
 import { sendLeadEmail } from "@/lib/mail";
 
-export const runtime = "nodejs";
-export const dynamic = "force-dynamic";
+//export const runtime = "nodejs";
+//export const dynamic = "force-dynamic";
 const NO_STORE = { "Cache-Control": "no-store" };
 const json = (body: object, status = 200, extra: Record<string, string> = {}) =>
   NextResponse.json(body, { status, headers: { ...NO_STORE, ...extra } });
