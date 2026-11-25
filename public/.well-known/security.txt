@@ -1,0 +1,11 @@
+# Politica de divulgare responsabilă – AegisNIS Cyber Defense (DATE DEMONSTRATIVE)
+# Format: RFC 9116. Înlocuiți domeniul, cheia PGP și semnați fișierul înainte de producție:
+#   gpg --local-user <KEYID> --clearsign security.txt   (publicați rezultatul ca security.txt)
+Contact: mailto:security@aegisnis-demo.ro
+Contact: https://aegisnis-demo.ro/termeni-conditii#divulgare-responsabila
+Expires: 2027-06-30T23:59:59.000Z
+Encryption: https://aegisnis-demo.ro/.well-known/pgp-key.txt
+Acknowledgments: https://aegisnis-demo.ro/termeni-conditii#multumiri
+Preferred-Languages: ro, en
+Canonical: https://aegisnis-demo.ro/.well-known/security.txt
+Policy: https://aegisnis-demo.ro/termeni-conditii#divulgare-responsabila

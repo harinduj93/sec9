@@ -1,0 +1,8 @@
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+[PLACEHOLDER – ÎNLOCUIȚI CU CHEIA PUBLICĂ REALĂ A security@aegisnis-demo.ro]
+Generare: gpg --quick-generate-key "AegisNIS Security <security@aegisnis-demo.ro>" ed25519 sign,encrypt 1y
+Export:   gpg --armor --export security@aegisnis-demo.ro > pgp-key.txt
+Fingerprint de publicat și pe pagina /termeni-conditii: [AMPRENTA_PGP_PLACEHOLDER]
+
+-----END PGP PUBLIC KEY BLOCK-----
